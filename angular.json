@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "orama-app"
+  "defaultProject": "orama-app",
+  "cli": {
+    "analytics": "7c4492b2-415b-4cbc-b5aa-63bbeb7d296e"
+  }
 }
